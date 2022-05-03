@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/master.swiftdeps"
+  },
+  "/Volumes/Olakunle/Login Screen/Sources/Login Screen/Extensions/Pages/main.page.ext.swift": {
+    "dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/Extensions/Pages/main.page.ext.d",
+    "object": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/Extensions/Pages/main.page.ext.swift.o",
+    "swiftmodule": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/Extensions/Pages/main.page.ext~partial.swiftmodule",
+    "swift-dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/Extensions/Pages/main.page.ext.swiftdeps"
+  },
+  "/Volumes/Olakunle/Login Screen/Sources/Login Screen/main.page.swift": {
+    "dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/main.page.d",
+    "object": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/main.page.swift.o",
+    "swiftmodule": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/main.page~partial.swiftmodule",
+    "swift-dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/main.page.swiftdeps"
+  },
+  "/Volumes/Olakunle/Login Screen/Sources/Login Screen/start.swift": {
+    "dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/start.d",
+    "object": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/start.swift.o",
+    "swiftmodule": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/start~partial.swiftmodule",
+    "swift-dependencies": "/Volumes/Olakunle/Login Screen/.build/x86_64-none-linux-android/debug/Login_Screen.build/start.swiftdeps"
+  }
+}

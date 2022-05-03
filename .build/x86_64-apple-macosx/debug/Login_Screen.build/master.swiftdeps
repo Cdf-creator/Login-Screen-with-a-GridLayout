@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "a0106bbded7430d3641ec19bc9c33753"
+build_time: [1651573059, 971554000]
+inputs:
+  "/Volumes/Olakunle/Login Screen/Sources/Login Screen/Extensions/Pages/main.page.ext.swift": [1651573040, 0]
+  "/Volumes/Olakunle/Login Screen/Sources/Login Screen/main.page.swift": [1645522519, 0]
+  "/Volumes/Olakunle/Login Screen/Sources/Login Screen/start.swift": [1645522519, 0]
