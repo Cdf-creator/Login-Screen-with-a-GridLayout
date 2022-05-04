@@ -109,7 +109,7 @@
           </font>
           <location x="120" y="121"/>
           <size width="150" height="40"/>
-          <contentSize width="86" height="34"/>
+          <contentSize width="150" height="40"/>
           <layoutData xsi:type="layout:GridData" row="1" grabVerticalSpace="true" horizontalAlignment="CENTER" verticalAlignment="MIDDLE" grabHorizontalSpace="true">
             <minSize width="150" height="40"/>
             <maxSize width="-1" height="-1"/>
