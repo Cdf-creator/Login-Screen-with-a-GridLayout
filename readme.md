@@ -1,1 +1,1 @@
-<h1> For running project in Scade: import **Login Screen** folder to SCADE IDE. </h1>
+<h3> For running project in Scade: import <strong>Login Screen</strong> folder to SCADE IDE. </h3>
