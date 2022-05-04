@@ -104,14 +104,14 @@
           <contentSize width="203" height="29"/>
         </children>
         <children xsi:type="widgets:Button" text="Login" name="loginButton" horizontalAlignment="CENTER" cornerRadius="30">
-          <font fontFamily="ArialMT" size="35">
+          <font fontFamily="ArialMT" size="30">
             <color Red="255" Green="254" Blue="246"/>
           </font>
-          <location x="152" y="121"/>
-          <size width="86" height="40"/>
-          <contentSize width="86" height="40"/>
+          <location x="120" y="121"/>
+          <size width="150" height="40"/>
+          <contentSize width="86" height="34"/>
           <layoutData xsi:type="layout:GridData" row="1" grabVerticalSpace="true" horizontalAlignment="CENTER" verticalAlignment="MIDDLE" grabHorizontalSpace="true">
-            <minSize width="86" height="23"/>
+            <minSize width="150" height="40"/>
             <maxSize width="-1" height="-1"/>
           </layoutData>
           <backgroundColor Red="107" Green="39" Blue="255"/>
