@@ -1,4 +1,0 @@
-module Login_Screen {
-    header "/Volumes/Olakunle/Login Screen/.build/x86_64-apple-macosx/debug/Login_Screen.build/Login Screen-Swift.h"
-    requires objc
-}
